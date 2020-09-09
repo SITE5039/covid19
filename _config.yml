@@ -1,1 +1,14 @@
+title: COVID-19 prediction
+description: "A website of the COVID-19 project"
+logo: assets/images/uottawa_hor_wg9.png
+
+# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
+
+# sass:
+#   sass_dir: assets/css
+
+
+markdown: kramdown
+
 theme: jekyll-theme-cayman
