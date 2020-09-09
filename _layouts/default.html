@@ -30,9 +30,9 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
         <a href="/" class="btn">Home</a>
-        <a href="/about" class="btn">About</a>
+        <a href="{{ site.baseurl }}/about" class="btn">About</a>
         <a href="/#results" class="btn">Results</a>
-        <a href="/models" class="btn">Models</a>
+        <a href="{{ site.baseurl }}/models" class="btn">Models</a>
 
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub?</a>

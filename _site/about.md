@@ -1,7 +1,7 @@
 <!-- ---
 layout: default
 title: COVID-19 prediction
-permalink: /about/
+permalink: /covid19/about
 --- -->
 
 ## Team
